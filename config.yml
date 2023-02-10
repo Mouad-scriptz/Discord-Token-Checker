@@ -1,0 +1,3 @@
+settings:
+  rotating-proxy: "" # Format user:pass@host:port or host:port
+  sensor-tokens: false # true or false (lowercase)
